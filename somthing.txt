@@ -1,0 +1,5 @@
+library(ggplot2)
+
+# open set
+
+data <- NULL
